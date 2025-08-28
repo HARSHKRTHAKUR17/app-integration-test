@@ -7,3 +7,5 @@ services:
       - POSTGRES_PASSWORD=mysecretpassword
     ports:
       - '5433:5432'
+
+// we can add more services here
